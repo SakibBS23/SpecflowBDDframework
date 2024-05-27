@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TealiumSpecFlowProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f008d768a40edc488e9b02589e33e9873cd8a00a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1825d3e0c46e86e525945ae05c77cf92900208")]
 [assembly: System.Reflection.AssemblyProductAttribute("TealiumSpecFlowProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TealiumSpecFlowProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
